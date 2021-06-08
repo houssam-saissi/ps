@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>bkamstats</name>
+	<displayName><![CDATA[Bkam Stats]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Stats for BKAM Backend]]></description>
+	<author><![CDATA[Wyxar]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
